@@ -1,5 +1,9 @@
 {
-  "cdsc" : {
-    "betterSqliteSessionVariables" : true
+  "cdsc": {
+    "betterSqliteSessionVariables": true
+  },
+  "requires": {
+    "db": "hana",
+    "auth": "xsuaa"
   }
 }
